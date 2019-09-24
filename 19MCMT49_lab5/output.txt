@@ -1,0 +1,3 @@
+The minimum number of multiplications to compute the product is 10500.
+
+( A1 ( A2 ( A3  A4 )))

@@ -1,0 +1,12 @@
+﻿Algorithm Lab – Assignment 2
+
+1. FILE is used for input and output text files.
+
+2. Inputs range taken are 5000, 10000, 15000, 20000 in random, ascending and descending order.
+
+3. Input format is : 
+                             “in_random5000.txt” for random 5000 numbers.
+                             “in_ascending5000.txt” for 5000 ascending numbers.
+                             “in_descending5000.txt” for 5000 descending numbers.
+
+
